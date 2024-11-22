@@ -16,7 +16,7 @@
         <el-button type="primary">关注</el-button>
       </div>
       <div class="stream-description">
-        <h4>直播简介</h4>
+        <h4>直播简介1</h4>
         <p>这是一个精彩的直播，欢迎大家观看！</p>
       </div>
     </div>
